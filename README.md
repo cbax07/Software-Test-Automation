@@ -1,4 +1,4 @@
-# Softweare-Test-Automation
+# Software-Test-Automation
 
 **How can I ensure that my code, program, or software is functional and secure?**
 
